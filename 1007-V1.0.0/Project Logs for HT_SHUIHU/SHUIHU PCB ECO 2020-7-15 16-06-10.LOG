@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=CON5 Old Footprint=HDR1X5 New Footprint=HEADER_5
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23B_L New Footprint=SOT-23_L
+Added Member To Class: ClassName=POWER Member=Component R5 µç×è
+Added Room: Name=POWER
